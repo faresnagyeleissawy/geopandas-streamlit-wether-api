@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.056111, 31.233333]
+      },
+      "properties": {
+        "temperature": 26.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.807222, 26.820556]
+      },
+      "properties": {
+        "temperature": 32.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.233333, 26.183333]
+      },
+      "properties": {
+        "temperature": 24.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.166667, 29.966667]
+      },
+      "properties": {
+        "temperature": 28.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.283333, 26.133333]
+      },
+      "properties": {
+        "temperature": 33.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.79167, 27.23611]
+      },
+      "properties": {
+        "temperature": 29.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.82222, 29.965]
+      },
+      "properties": {
+        "temperature": 28.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.26667, 26.16667]
+      },
+      "properties": {
+        "temperature": 31.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.18333, 30.01667]
+      },
+      "properties": {
+        "temperature": 26.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.91667, 27.16667]
+      },
+      "properties": {
+        "temperature": 25.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.51667, 30.05]
+      },
+      "properties": {
+        "temperature": 27.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.63333, 25.7]
+      },
+      "properties": {
+        "temperature": 32.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.71667, 24.18333]
+      },
+      "properties": {
+        "temperature": 38.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.83333, 25.45]
+      },
+      "properties": {
+        "temperature": 33.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2422, 30.1286]
+      },
+      "properties": {
+        "temperature": 29.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.7444, 28.1194]
+      },
+      "properties": {
+        "temperature": 27.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.811607, 27.257896]
+      },
+      "properties": {
+        "temperature": 23.8
+      }
+    }
+  ]
+}

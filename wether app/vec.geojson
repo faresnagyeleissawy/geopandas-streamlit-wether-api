@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "vec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 25, "E_Name": "Suez", "temprature": 31, "humadity": 22 }, "geometry": { "type": "Point", "coordinates": [ 32.561209999999846, 29.963540000000648 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 24, "E_Name": "mrsy mtrwh", "temprature": 27, "humadity": 26 }, "geometry": { "type": "Point", "coordinates": [ 27.252909999999247, 31.353199999999561 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 22, "E_Name": "alÂqasr", "temprature": 35, "humadity": 28 }, "geometry": { "type": "Point", "coordinates": [ 32.642770000000382, 25.698420000000624 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 21, "E_Name": "qana", "temprature": 35, "humadity": 29 }, "geometry": { "type": "Point", "coordinates": [ 32.726150000000416, 26.165600000000268 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 20, "E_Name": "swaag", "temprature": 33, "humadity": 32 }, "geometry": { "type": "Point", "coordinates": [ 31.69758, 26.551299999999173 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19, "E_Name": "dmyat", "temprature": 28, "humadity": 70 }, "geometry": { "type": "Point", "coordinates": [ 31.8140199999998, 31.420700000000579 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 18, "E_Name": "almnya", "temprature": 34, "humadity": 30 }, "geometry": { "type": "Point", "coordinates": [ 30.761339999999109, 28.094289999999091 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 17, "E_Name": "bwrsayd", "temprature": 28, "humadity": 80 }, "geometry": { "type": "Point", "coordinates": [ 32.297829999999522, 31.265310000000682 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 16, "E_Name": "alasmaaylya", "temprature": 31, "humadity": 55 }, "geometry": { "type": "Point", "coordinates": [ 32.268019999999524, 30.597649999999703 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 1, "E_Name": "almnswra", "temprature": 25, "humadity": 70 }, "geometry": { "type": "Point", "coordinates": [ 31.380960000000414, 31.04263 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "E_Name": "bnaa", "temprature": 27, "humadity": 61 }, "geometry": { "type": "Point", "coordinates": [ 31.181329999999434, 30.457479999999123 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "E_Name": "alqaaara", "temprature": 30, "humadity": 58 }, "geometry": { "type": "Point", "coordinates": [ 31.25525000000016, 30.052079999999478 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "E_Name": "bny swyfa", "temprature": 28, "humadity": 39 }, "geometry": { "type": "Point", "coordinates": [ 31.106669999999212, 29.078709999999774 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "E_Name": "alfaywm", "temprature": 24, "humadity": 51 }, "geometry": { "type": "Point", "coordinates": [ 30.84267, 29.301369999999224 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 15, "E_Name": "alarysh", "temprature": 34, "humadity": 83 }, "geometry": { "type": "Point", "coordinates": [ 33.798660000000382, 31.1270999999997 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "E_Name": "alghrdqaa", "temprature": 30, "humadity": 44 }, "geometry": { "type": "Point", "coordinates": [ 33.83495000000039, 27.242840000000797 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 23, "E_Name": "aswan", "temprature": 36, "humadity": 20 }, "geometry": { "type": "Point", "coordinates": [ 32.906849999999395, 24.090690000000905 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "E_Name": "kfar shkr", "temprature": 24, "humadity": 68 }, "geometry": { "type": "Point", "coordinates": [ 31.264180000000124, 30.545959999999468 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "E_Name": "qalywb", "temprature": 27, "humadity": 65 }, "geometry": { "type": "Point", "coordinates": [ 31.20572, 30.177620000000388 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "E_Name": "alzqaazyqa", "temprature": 26, "humadity": 68 }, "geometry": { "type": "Point", "coordinates": [ 31.49311999999918, 30.588659999999436 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "E_Name": "shbyn alkwm", "temprature": 28, "humadity": 69 }, "geometry": { "type": "Point", "coordinates": [ 31.007480000000214, 30.55493000000024 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "E_Name": "tnta", "temprature": 27, "humadity": 75 }, "geometry": { "type": "Point", "coordinates": [ 31.001109999999244, 30.78629 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "E_Name": "asywt", "temprature": 30, "humadity": 35 }, "geometry": { "type": "Point", "coordinates": [ 31.181000000000495, 27.180519999999888 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "E_Name": "dmnawr", "temprature": 27, "humadity": 68 }, "geometry": { "type": "Point", "coordinates": [ 30.472079999999551, 31.036239999999452 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "E_Name": "elgiza", "temprature": 27, "humadity": 58 }, "geometry": { "type": "Point", "coordinates": [ 31.097095626036609, 29.9857492305531 ] } }
+]
+}
